@@ -45,6 +45,10 @@ Note : The data in the Google Sheet picture is for illustrative purposes only an
 
 ### Project 3: Project ID Card Parser
 
+![สกรีนช็อต 2023-11-03 014547](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/549a8a1e-e77a-45d6-b1cd-238772d48584)
+
 ### Project 3: Project Simple App
+
+![สกรีนช็อต 2023-11-03 015429](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/964907c2-366c-4858-ae1c-316f113bc8f9)
 
 I hope that this portfolio has given you a good overview of my spreadsheet skills. I am always learning new things about spreadsheets, and I am excited to continue to develop my skills in this area.
