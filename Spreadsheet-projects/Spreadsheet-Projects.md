@@ -1,6 +1,7 @@
 ## Introduction
 
 This document contains an overview portfolio of my spreadsheet projects. [a link to the Spread Sheets project](https://docs.google.com/spreadsheets/d/18x9tVa3EsTwL7z52Bd5n6AwMfWFEU72WykQLbim_7pg/edit?pli=1#gid=0)
+
 Note: The data in the Google Sheet image is for illustrative purposes only and does not represent real-world data.
 ## List of Lesson
 
@@ -51,7 +52,7 @@ Developed a spreadsheet function using regular expressions to extract customer i
 
 ![สกรีนช็อต 2023-11-03 023005](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/59db157a-9b29-4fd8-8ae0-c3fce8f090d8)
 
-### Project 3: Project Simple App
+### Project 4: Project Simple App
 
 Developed a dynamic table using the INDEX and DATEDIF functions to pull first name, lastname, gender, salary, performance, and year of service from SSN numbers, enabling users to quickly and easily filter data.
 
