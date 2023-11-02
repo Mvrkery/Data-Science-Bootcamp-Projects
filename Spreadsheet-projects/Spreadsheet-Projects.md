@@ -1,11 +1,11 @@
 ## Introduction
 
-This document contains a portfolio of my spreadsheet projects. [a link to the Google Sheets project](https://docs.google.com/spreadsheets/d/18x9tVa3EsTwL7z52Bd5n6AwMfWFEU72WykQLbim_7pg/edit?pli=1#gid=0)
+This document contains a portfolio of my spreadsheet projects. [a link to the Spread Sheets project](https://docs.google.com/spreadsheets/d/18x9tVa3EsTwL7z52Bd5n6AwMfWFEU72WykQLbim_7pg/edit?pli=1#gid=0)
 ## List of Lesson
 
 | Lesson             | Lesson Name                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| 1 | Data Entry |
+|  1 | Data Entry |
 | Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
 | Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
