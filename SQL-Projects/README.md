@@ -1,4 +1,7 @@
 # Italian Restaurant Database and SQL Project
+
+[Click here](https://replit.com/@athiwatsirinant/ItalianRestaurantDatabaseProject#main.sql) to see how I implemented the Italian Restaurant Database analysis on replit.com.
+
 ## The Italian Restaurant Database that I have created consists of five tables:
 
 - Categories
