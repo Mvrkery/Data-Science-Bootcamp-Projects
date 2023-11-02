@@ -1,6 +1,7 @@
 ## Introduction
 
 This document contains an overview portfolio of my spreadsheet projects. [a link to the Spread Sheets project](https://docs.google.com/spreadsheets/d/18x9tVa3EsTwL7z52Bd5n6AwMfWFEU72WykQLbim_7pg/edit?pli=1#gid=0)
+Note : The data in the Google Sheet picture is for illustrative purposes only and does not represent real-world data.
 ## List of Lesson
 
 | Lesson             | Lesson Name                                                                |
@@ -38,7 +39,6 @@ Created a dynamic query using the QUERY function and dropdown menus to allow use
 
 ![สกรีนช็อต 2023-11-03 013735](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/fc53157f-5519-4df7-8690-4f329bf8f593)
 
-Note : The data in the Google Sheet picture is for illustrative purposes only and does not represent real-world data.
 ### Project 2: Project Convert TH to EN Date
 
 ![สกรีนช็อต 2023-11-03 014242](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/aedb97e0-b896-49b1-877c-93eb35a57574)
