@@ -1,7 +1,7 @@
 ## Introduction
 
 This document contains an overview portfolio of my spreadsheet projects. [a link to the Spread Sheets project](https://docs.google.com/spreadsheets/d/18x9tVa3EsTwL7z52Bd5n6AwMfWFEU72WykQLbim_7pg/edit?pli=1#gid=0)
-Note : The data in the Google Sheet picture is for illustrative purposes only and does not represent real-world data.
+Note: The data in the Google Sheet image is for illustrative purposes only and does not represent real-world data.
 ## List of Lesson
 
 | Lesson             | Lesson Name                                                                |
@@ -41,13 +41,13 @@ Created a dynamic query using the QUERY function and dropdown menus to allow use
 
 ### Project 2: Project Convert TH Date to EN Date
 
-Developed a spreadsheet function using the LEFT, VLOOKUP, RIGHT, and DATE functions to convert Thai dates to English dates, demonstrating my ability to combine multiple functions to create a robust solution.
+Developed a spreadsheet function using the LEFT, VLOOKUP, RIGHT, and DATE functions to convert Thai dates to English dates, demonstrating my ability to combine multiple functions to create a robust solution that addresses real-world problems.
 
 ![สกรีนช็อต 2023-11-03 014242](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/aedb97e0-b896-49b1-877c-93eb35a57574)
 
 ### Project 3: Project ID Card Parser
 
-Developed a spreadsheet function using regular expressions to extract customer information, such as ID, gender, first name, last name, date of birth, age, address, zip code, expiration date, and expired this year, from made-up data, demonstrating my ability to use regular expressions to solve real-world problems.
+Developed a spreadsheet function using regular expressions to extract customer information, such as ID, gender, first name, last name, date of birth, age, address, zip code, expiration date, and expiration status, from made-up data, demonstrating my ability to use regular expressions to solve real-world problems.
 
 ![สกรีนช็อต 2023-11-03 014547](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/549a8a1e-e77a-45d6-b1cd-238772d48584)
 
