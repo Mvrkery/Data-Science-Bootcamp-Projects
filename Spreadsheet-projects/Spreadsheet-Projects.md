@@ -49,7 +49,7 @@ Developed a spreadsheet function using the LEFT, VLOOKUP, RIGHT, and DATE functi
 
 Developed a spreadsheet function using regular expressions to extract customer information, such as ID, gender, first name, last name, date of birth, age, address, zip code, expiration date, and expiration status, from made-up data, demonstrating my ability to use regular expressions to solve real-world problems.
 
-![สกรีนช็อต 2023-11-03 014547](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/549a8a1e-e77a-45d6-b1cd-238772d48584)
+![สกรีนช็อต 2023-11-03 023005](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/59db157a-9b29-4fd8-8ae0-c3fce8f090d8)
 
 ### Project 3: Project Simple App
 
