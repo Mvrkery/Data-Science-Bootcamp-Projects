@@ -43,4 +43,4 @@
 
     This query identifies VIP customers who have placed orders with a total value of greater than 100. The results of the query show that Sophia Bianchi, Matteo Ricci, and Alessia Marchetti are the VIP customers who have placed the highest-value orders.
 
-Overall, the Italian Restaurant Database that I have created is an well-designed and informative database. The SQL queries that I have executed provide valuable insights into the restaurant's operations and customer behavior.
+Overall, the Italian Restaurant Database that I have created is an informative database. The SQL queries that I have executed provide valuable insights into the restaurant's operations and customer behavior.
