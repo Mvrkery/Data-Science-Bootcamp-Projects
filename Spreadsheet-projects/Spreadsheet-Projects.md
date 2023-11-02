@@ -38,6 +38,7 @@ Created a dynamic query using the QUERY function and dropdown menus to allow use
 
 ![สกรีนช็อต 2023-11-03 013735](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/fc53157f-5519-4df7-8690-4f329bf8f593)
 
+Note : The data in the Google Sheet picture is for illustrative purposes only and does not represent real-world data.
 ### Project 2: Project Convert TH to EN Date
 
 ### Project 3: Project ID Card Parser
