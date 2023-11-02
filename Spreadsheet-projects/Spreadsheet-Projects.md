@@ -1,4 +1,7 @@
-# Data-Science-Bootcamp-Projects
-[test](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/blob/main/Spreadsheet-projects/ready.md)
-[test](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/blob/main/Spreadsheet-projects/ready.md)
-[test](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/blob/main/Spreadsheet-projects/ready.md)
+## Example Table
+
+| Feature | Description |
+|---|---|
+| Bold text | Use `**` to bold text. |
+| Italic text | Use `*` to italicize text. |
+| Code blocks | Use three backticks (```) to create a code block. |
