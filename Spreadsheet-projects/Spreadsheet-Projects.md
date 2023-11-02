@@ -32,6 +32,8 @@ This document contains an overview portfolio of my spreadsheet projects. [a link
 
 ### Project 1: Project Dynamic Query
 
+Created a dynamic query using the QUERY function and dropdown menus to allow users to easily filter data without re-typing values.
+
 ![สกรีนช็อต 2023-11-03 013449](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/dc4e96ee-d279-45d5-bf53-50344ab8dd26)
 
 ### Project 2: Project Convert TH to EN Date
