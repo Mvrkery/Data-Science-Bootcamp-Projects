@@ -1,6 +1,6 @@
 ## Introduction
 
-This document contains a portfolio of my spreadsheet projects. [a link to the Spread Sheets project](https://docs.google.com/spreadsheets/d/18x9tVa3EsTwL7z52Bd5n6AwMfWFEU72WykQLbim_7pg/edit?pli=1#gid=0)
+This document contains an overview portfolio of my spreadsheet projects. [a link to the Spread Sheets project](https://docs.google.com/spreadsheets/d/18x9tVa3EsTwL7z52Bd5n6AwMfWFEU72WykQLbim_7pg/edit?pli=1#gid=0)
 ## List of Lesson
 
 | Lesson             | Lesson Name                                                                |
@@ -30,11 +30,14 @@ This document contains a portfolio of my spreadsheet projects. [a link to the Sp
 
 ## Projects
 
-### Project 1: Personal Budget Tracker
+### Project 1: Project Dynamic Query
 
-### Project 2: Product Cost Calculator
+### Project 2: Project Convert TH to EN Date
 
-### Project 3: Sales Data Analysis
+### Project 3: Project ID Card Parser
+
+### Project 3: Project Simple App
+
 
 ### Project 4: Project Schedule Tracker
 
