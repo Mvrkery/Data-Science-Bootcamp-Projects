@@ -6,9 +6,27 @@ This document contains a portfolio of my spreadsheet projects. [a link to the Sp
 | Lesson             | Lesson Name                                                                |
 | ----------------- | ------------------------------------------------------------------ |
 |  1 | Data Entry |
-| Example Color | ![#f8f8f8](https://via.placeholder.com/10/f8f8f8?text=+) #f8f8f8 |
-| Example Color | ![#00b48a](https://via.placeholder.com/10/00b48a?text=+) #00b48a |
-| Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
+| 2 | Array Formula |
+| 3 | Import Data |
+| 4 | Explore |
+| 5 | Filtering and Sorting |
+| 6 | Creating Conditions |
+| 7 | Creating Advanced Conditions |
+| 8 | Conditional Formatting |
+| 9 | Querying and Summarizing Data |
+| 10 | Project Dynamic Query |
+| 11 | Enriching Our Data with VLOOKUP |
+| 12 | Working with Date |
+| 13 | Working with Text (String) |
+| 14 | Project Convert TH to EN Date |
+| 15 | Regular Expressions |
+| 16 | Project ID Card Parser |
+| 17 | Match and Index |
+| 18 | Project Simple App |
+| 19 | Sparkline Basics |
+| 20 | Google Translate |
+| 21 | Optional Pivot Table Basics |
+| 22 | Simple ML |
 
 ## Projects
 
