@@ -32,15 +32,12 @@ This document contains an overview portfolio of my spreadsheet projects. [a link
 
 ### Project 1: Project Dynamic Query
 
+![สกรีนช็อต 2023-11-03 013449](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/dc4e96ee-d279-45d5-bf53-50344ab8dd26)
+
 ### Project 2: Project Convert TH to EN Date
 
 ### Project 3: Project ID Card Parser
 
 ### Project 3: Project Simple App
-
-
-### Project 4: Project Schedule Tracker
-
-### Project 5: Customer Database
 
 I hope that this portfolio has given you a good overview of my spreadsheet skills. I am always learning new things about spreadsheets, and I am excited to continue to develop my skills in this area.
