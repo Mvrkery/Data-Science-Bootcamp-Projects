@@ -7,3 +7,6 @@
 ## Rock Paper Scissors Bot Project
 [Click here](https://replit.com/@athiwatsirinant/RockPaperScissorBotProject) to see how my Rock Paper Scissors Bot project works on replit.com!
 - This project is a game of rock-paper-scissors against a computer. The game begins by asking the user for their name. The game then prompts the user to choose from rock, paper, or scissors. The computer then randomly chooses one of the three options: rock, paper, or scissors. The winner of the round is determined by the rules of rock-paper-scissors. The game continues until the user decides to quit. At the end of the game, the game displays the user's wins, losses, and ties.
+
+## NYCflights13-Analysis-With-DPLYR-Project
+- The R code you provided analyzes the nycflights13 dataset to identify Total number of flights, the top 5 most popular airlines, Popular Airlines Of 2013, the average departure delay for each airline, and the top 5 destinations with the most flights. It does this by filtering and manipulating the data using the dplyr package, and then printing the results using the arrange() and View() functions.
