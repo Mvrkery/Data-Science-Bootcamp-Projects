@@ -12,4 +12,4 @@
 - The R code I provided analyzes the `nycflights13` dataset to identify Total number of flights, the top 5 most popular airlines, Popular Airlines Of 2013, the average departure delay for each airline, and the top 5 destinations with the most flights. It does this by filtering and manipulating the data using the `dplyr` package, and then printing the results using the `arrange()` and `View()` functions.
 
 ## PostgreSQL Database Operations in R
-- The R code I provided connects to a PostgreSQL database hosted on ElephantSQL, writes the mtcars dataset to a table in the database, lists the tables in the database, gets the number of rows in the cars table, and gets all rows from the cars table. Finally, it disconnects from the database
+- The R code I provided connects to a PostgreSQL database hosted on ElephantSQL, writes the `mtcars` dataset to a table in the database, lists the tables in the database, gets the number of rows in the `cars` table, and gets all rows from the `cars` table. Finally, it disconnects from the database
