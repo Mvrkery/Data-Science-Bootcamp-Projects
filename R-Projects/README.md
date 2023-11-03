@@ -23,3 +23,14 @@
 - The second project scrapes the Apple iPhone 14 Pro phone specifications from the GSMArena website. It does this in a similar way to the first project
 
 - Both projects are examples of web scraping using R. Web scraping is a technique for extracting data from websites. It can be used to collect data for a variety of purposes, such as market research, price comparison, and data analysis.
+
+## Diamonds Visualization
+- The R Markdown code I provided creates six plots of the diamonds dataset:
+
+- Scatter Plot - Carat vs. Price: This plot shows the relationship between the carat weight and price of diamonds.
+- Box Plot - Cut vs. Price: This plot shows the distribution of prices for each diamond cut.
+- Histogram - Distribution of Carat: This plot shows the distribution of carat weights for all diamonds in the dataset.
+- Bar Plot - Frequency of Cuts: This plot shows the number of diamonds in each diamond cut category.
+- Density Plot - Price by Cut: This plot shows the distribution of prices for each diamond cut, overlaid on top of each other.
+- Faceted Scatter Plot - Carat vs. Price by Cut: This plot is similar to the scatter plot above, but it is faceted by diamond cut. This means that there is a separate scatter plot for each diamond cut category.
+- All of the plots are labeled with appropriate titles, axes labels, and legends. The plots are also formatted in a consistent style, with a blue and black color scheme.
