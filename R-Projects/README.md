@@ -1,4 +1,4 @@
-# Here is a description of the two projects
+# Here is a description of the projects
 ## Pizza Ordering ChatBot Project
 [Click here](https://replit.com/@athiwatsirinant/PizzaOrderingBotProject) to see how my PizzaBot project works on replit.com!
 
