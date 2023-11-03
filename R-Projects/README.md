@@ -20,6 +20,6 @@
 ## Phone-Specifications-Scraper
 - The first project scrapes the Samsung Galaxy Z Fold5 12GB/1024GB phone specifications from the Specphone website. It does this by first reading the HTML of the web page using the rvest package. It then extracts the topic and detail of each specification using the html_elements() and html_text2() functions. Finally, it creates a data frame using the tidyverse package and views the data frame using the View() function.
 
-The second project scrapes the Apple iPhone 14 Pro phone specifications from the GSMArena website. It does this in a similar way to the first project
+- The second project scrapes the Apple iPhone 14 Pro phone specifications from the GSMArena website. It does this in a similar way to the first project
 
-Both projects are examples of web scraping using R. Web scraping is a technique for extracting data from websites. It can be used to collect data for a variety of purposes, such as market research, price comparison, and data analysis.
+- Both projects are examples of web scraping using R. Web scraping is a technique for extracting data from websites. It can be used to collect data for a variety of purposes, such as market research, price comparison, and data analysis.
