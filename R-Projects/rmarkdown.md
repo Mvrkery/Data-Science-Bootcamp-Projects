@@ -34,6 +34,8 @@ scatter_carat_price <- ggplot(diamonds, aes(x = carat, y = price)) +
 print(scatter_carat_price)
 ```
 
+![ดาวน์โหลด](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/0f6b2602-6b4a-420d-b437-a288312e0f1c)
+
 ## what did we found here 
 
 - This scatter plot shows the relationship between the carat weight of diamonds and their corresponding prices. As carat weight increases, the price of diamonds tends to increase as well. This suggests a positive correlation between carat and price.
@@ -47,6 +49,8 @@ box_cut_price <- ggplot(diamonds, aes(x = cut, y = price)) +
 print(box_cut_price)
 ```
 
+![ดาวน์โหลด (1)](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/c620669c-10a8-4df2-984c-998b7388f85e)
+
 ## what did we found here 
 
 - The box plot displays the distribution of prices for different cuts of diamonds. It helps us see the variability and central tendencies of prices within each cut category. We can observe the median price, spread of prices (interquartile range), and potential outliers for each cut.
@@ -58,6 +62,9 @@ hist_carat <- ggplot(diamonds, aes(x = carat)) +
        x = "Carat", y = "Frequency")
 print(hist_carat)
 ```
+
+![ดาวน์โหลด (2)](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/b1c8f7c3-5243-40ff-873c-6c73a171ae85)
+
 ## what did we found here 
 
 - This histogram visualizes the distribution of carat weights in the dataset. It shows how the carat weights are distributed across different ranges. The histogram gives an overview of the carat weight distribution and its frequency.
@@ -69,6 +76,8 @@ bar_cut <- ggplot(diamonds, aes(x = cut, fill = cut)) +
        x = "Cut", y = "Frequency")
 print(bar_cut)
 ```
+
+![ดาวน์โหลด (4)](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/29c5fae0-caf9-4f22-a613-2177043fb6eb)
 
 ## what did we found here 
 
@@ -84,6 +93,8 @@ density_price_cut <- ggplot(diamonds, aes(x = price, fill = cut)) +
 print(density_price_cut)
 ```
 
+![ดาวน์โหลด (5)](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/b5207c03-fec4-4336-b8eb-c878f0cf3b3c)
+
 ## what did we found here 
 
 - This density plot depicts the density distribution of diamond prices for each cut category. It helps us understand the spread of prices within each cut. Overlapping densities suggest that there might be similar price ranges across different cuts.
@@ -96,6 +107,8 @@ faceted_scatter <- ggplot(diamonds, aes(x = carat, y = price)) +
        x = "Carat", y = "Price")
 print(faceted_scatter)
 ```
+
+![ดาวน์โหลด (6)](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/ed1b5550-ab32-4e59-92b5-387a4fd21bfe)
 
 ## what did we found here 
 
