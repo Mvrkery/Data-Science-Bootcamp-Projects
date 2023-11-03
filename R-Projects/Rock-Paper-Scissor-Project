@@ -1,3 +1,4 @@
+```R
 play_game <- function() {
   print("Welcome to Rock Paper Scissor Game!")
 print("Type 'exit' to exit the game")
@@ -47,3 +48,4 @@ print(paste("Great! Let's get start", user_name))
 }
 
 play_game()
+```R
