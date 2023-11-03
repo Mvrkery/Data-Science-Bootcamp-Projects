@@ -25,7 +25,7 @@
 - Both projects are examples of web scraping using R. Web scraping is a technique for extracting data from websites. It can be used to collect data for a variety of purposes, such as market research, price comparison, and data analysis.
 
 ## Diamonds Visualization
-[Click here]((https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/blob/main/R-Projects/Diamonds-Visualization-Report.md)) to view the R Markdown file for the diamonds data visualization.
+[Click here](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/blob/main/R-Projects/Diamonds-Visualization-Report.md) to view the R Markdown file for the diamonds data visualization.
 - The R Markdown code I provided creates six plots of the diamonds dataset:
 
 - Scatter Plot - Carat vs. Price: This plot shows the relationship between the carat weight and price of diamonds.
