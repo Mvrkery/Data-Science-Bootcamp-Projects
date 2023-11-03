@@ -1,0 +1,3 @@
+# Here is a description of the two projects
+## Pizza Ordering ChatBot Project
+- This project is a chatbot that allows users to order pizzas. The chatbot first asks the user if they would like to order a pizza. If the user says yes, the chatbot then asks the user what size of pizza they would like (small, medium, or large). Once the user has selected a size, the chatbot asks the user what toppings they would like. The chatbot then confirms the user's order and asks if the user is satisfied. If the user is satisfied, the chatbot thanks the user for their order and says that their pizza will be delivered shortly. If the user is not satisfied, the chatbot cancels the order.
