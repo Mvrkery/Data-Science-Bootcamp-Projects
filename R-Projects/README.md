@@ -13,3 +13,6 @@
 
 ## PostgreSQL Database Operations in R
 - The R code I provided connects to a PostgreSQL database hosted on ElephantSQL, writes the `mtcars` dataset to a table in the database, lists the tables in the database, gets the number of rows in the `cars` table, and gets all rows from the `cars` table. Finally, it disconnects from the database
+
+## IMDB Top 100 Movies Web Scraper
+- The R code I provided scrapes the top 100 movies on IMDb by user rating, extracts the movie names, ratings, and votes, and then cleans the data. The code then uses the `tidyverse` package to create a data frame and mutate the data frame to make it more readable and informative.
