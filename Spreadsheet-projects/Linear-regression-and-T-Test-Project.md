@@ -10,3 +10,10 @@ Click here to see the project
 
 ## what I found here
 - An R-square of 0.8398903051 means that your linear regression model explains 83.989% of the variation in the dependent variable.The high R-square value suggests that my linear regression model can be used to accurately predict the fuel consumption of a car based on its other characteristics.
+- A significance F column value of 0 in the regression row indicates that my linear regression model is a very good fit to the data and that there is a strong relationship between the independent variables and the dependent variable.
+- the p-values of hp and wt are lower than 0.05. They are considered to be very statistically significant at a 95% confidence level. This means that I can be very confident that the relationship between the variables and fuel consumption is real.
+- A p-value of am is more than 0.05. It is not considered to be statistically significant at a 95% confidence level. This means that I cannot be very confident that the relationship between the variable am and fuel consumption is real.
+- finally. I got an equation mpg = 34.0029 + (-0.3)*hp + (-2.87)*wt is a linear regression model that predicts fuel consumption (mpg) based on horsepower (hp) and weight (wt).
+
+## T-Test
+![สกรีนช็อต 2023-11-05 023844](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/d9630125-dfb0-4c2a-94cc-6a840c18bd8a)
