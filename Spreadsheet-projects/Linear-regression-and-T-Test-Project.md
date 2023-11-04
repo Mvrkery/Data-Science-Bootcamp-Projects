@@ -19,4 +19,8 @@ Click here to see the project
 next I did t-ttest to compare mpg between two groups am = 1 and am = 0
 ![สกรีนช็อต 2023-11-05 024541](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/6cd95088-b23b-43c5-b60a-e1747f1b3238)
 
+## the result
+
 ![สกรีนช็อต 2023-11-05 023844](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/d9630125-dfb0-4c2a-94cc-6a840c18bd8a)
+
+ the t-test results do not provide strong evidence that there is a statistically significant difference in mpg between the two groups of cars. It is possible that there is a small difference in mpg between the two groups, but the sample size may be too small to detect it. It is also possible that there is no real difference in mpg between the two groups, and the difference that was observed was due to chance.
