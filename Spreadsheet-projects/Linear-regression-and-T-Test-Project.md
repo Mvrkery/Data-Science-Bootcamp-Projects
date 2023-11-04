@@ -16,7 +16,7 @@ Click here to see the project
 - finally. I got an equation mpg = 34.0029 + (-0.3)*hp + (-2.87)*wt is a linear regression model that predicts fuel consumption (mpg) based on horsepower (hp) and weight (wt).
 
 ## T-Test
-next I did test to compare mpg between two groups am = 1 and am = 0
+next I did t-ttest to compare mpg between two groups am = 1 and am = 0
 ![สกรีนช็อต 2023-11-05 024541](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/6cd95088-b23b-43c5-b60a-e1747f1b3238)
 
 ![สกรีนช็อต 2023-11-05 023844](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/d9630125-dfb0-4c2a-94cc-6a840c18bd8a)
