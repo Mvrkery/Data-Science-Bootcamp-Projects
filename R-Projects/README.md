@@ -38,3 +38,13 @@
 
 ## Titanic Survival Prediction Model
 - This R code utilizes the `tidyverse` library to build and evaluate a logistic regression model for predicting survival on the Titanic. After loading and preprocessing the dataset, it splits it into training and testing sets, with 90% of the data used for training. The model is trained using features like passenger class, age, gender, and other variables. It then makes predictions on the test set and computes performance metrics including accuracy, precision, recall, and F1 score. The results are printed, and the preprocessed training data is saved to a CSV file named "Titanic.csv". Keep in mind that the effectiveness of this model relies on the quality of the data and the appropriateness of the logistic regression approach for this specific prediction task. Further validation and potentially trying different models may be advisable for real-world applications.
+
+
+## House Price Prediction Machine Learning
+- The code you provided is an example of machine learning because it uses two different machine learning algorithms, linear regression and KNN regression, to predict house prices. Both of these algorithms are able to learn from the training data and make predictions on new data without being explicitly programmed.
+
+Benefits of the code:
+
+-The code provides a comparison of two popular machine learning algorithms for house price prediction. This can help practitioners to decide which algorithm to use for their own house price prediction tasks.
+-The code shows how to evaluate the performance of machine learning algorithms using different metrics. This is important for understanding the strengths and weaknesses of different algorithms and for choosing the algorithm that is best suited for a particular task.
+-The code can be used to develop a machine learning model that can be used to predict house prices with greater accuracy than traditional methods. This can be beneficial for real estate practitioners, investors, and other stakeholders in the real estate market.
