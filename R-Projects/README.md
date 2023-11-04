@@ -46,5 +46,7 @@
 Benefits of the code:
 
 -The code provides a comparison of two popular machine learning algorithms for house price prediction. This can help practitioners to decide which algorithm to use for their own house price prediction tasks.
+
 -The code shows how to evaluate the performance of machine learning algorithms using different metrics. This is important for understanding the strengths and weaknesses of different algorithms and for choosing the algorithm that is best suited for a particular task.
+
 -The code can be used to develop a machine learning model that can be used to predict house prices with greater accuracy than traditional methods. This can be beneficial for real estate practitioners, investors, and other stakeholders in the real estate market.
