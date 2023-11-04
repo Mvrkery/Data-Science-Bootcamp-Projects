@@ -1,5 +1,6 @@
 # linear regression model to predict fuel consumption (mpg) and T-Test
 [Click here](https://docs.google.com/spreadsheets/d/1N-dm08eIJ_BWdFe2CYuLvACzJUndbINhWHSaLDjDw7U/edit#gid=0) to view my Google Sheet project
+
 I built a linear regression model to predict fuel consumption (mpg) based on the variables in the mtcars dataset using XLminer in Google Sheets. I then used XLminer to conduct a simple t-test on the mtcars dataset to compare mpg between two groups: cars with automatic transmission (am = 1) and cars with manual transmission (am = 0).
 
 ![สกรีนช็อต 2023-11-05 020244](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/2bee7226-6bcc-451a-8a08-cf06b6517a7c)
