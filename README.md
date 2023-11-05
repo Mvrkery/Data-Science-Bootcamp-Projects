@@ -1,5 +1,7 @@
 # Data-Science-Bootcamp-Projects
 
+https://badgr.com/backpack/badges/64a2f42d957f5b530a469161
+
 ![image](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/58394eeb-d650-4cd1-94be-7f65f27dfda5)
 
 
