@@ -43,4 +43,3 @@ If both players choose the same option, then the game is a tie
 
 The game also includes a scoring system: the player who wins a round gets 1 point. The first player to reach 3 points wins the game.
 
-The notebook also includes a number of exercises that you can complete to practice your Python skills.
