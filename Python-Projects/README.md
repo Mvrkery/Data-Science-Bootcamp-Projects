@@ -41,5 +41,9 @@
 - Paper beats rock
 If both players choose the same option, then the game is a tie
 
+## Pizza Ordering Chatbot
+
+- This Python notebook demonstrates how to create a pizza ordering chatbot using the Rasa NLU and Rasa Core frameworks. The chatbot can understand what you want to order and place the order for you.
+
 The game also includes a scoring system: the player who wins a round gets 1 point. The first player to reach 3 points wins the game.
 
