@@ -1,7 +1,5 @@
 # Data-Science-Bootcamp-Projects
 
-https://badgr.com/public/assertions/GTM7DsBFQOuhEDLegTDaEA?identity__email=asirinantipak@gmail.com
-
 ![image](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/58394eeb-d650-4cd1-94be-7f65f27dfda5)
 
 
