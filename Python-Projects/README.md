@@ -40,10 +40,14 @@
 - Scissors beats paper
 - Paper beats rock
 If both players choose the same option, then the game is a tie
+The game also includes a scoring system: the player who wins a round gets 1 point. The first player to reach 3 points wins the game.
 
 ## Pizza Ordering Chatbot
 
-- This Python notebook demonstrates how to create a pizza ordering chatbot using the Rasa NLU and Rasa Core frameworks. The chatbot can understand what you want to order and place the order for you.
+- This Python notebook demonstrates how to create a pizza ordering chatbot. The chatbot can understand what you want to order and place the order for you.
 
-The game also includes a scoring system: the player who wins a round gets 1 point. The first player to reach 3 points wins the game.
+## Pokemon-API-Request
+- Requests from public API Project is a Project that making requests to public APIs using Datalore, a cloud-based IDE for data analysis.
 
+## simple ML model using sklearn
+- The Simple ML model using sklearn project is an example of how to create a simple Machine Learning model to predict the price of a house using sklearn in Datalore.
