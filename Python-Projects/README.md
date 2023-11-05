@@ -22,4 +22,14 @@
 - Data Cleaning: In this part of the project, you will use Pandas to clean the sample dataset. You will learn how to identify and remove errors from the dataset, how to fill in missing values, and how to convert data types.
 - Data Analysis: In this part of the project, you will use Pandas to perform data analysis on the sample dataset. You will learn how to create groups of data, how to calculate aggregations over groups of data, and how to visualize data using Pandas' built-in plotting tools.
 
+## Object Oriented Programming ATM
+
+ The Object Oriented Programming ATM is a Project that demonstrates how to use object-oriented programming (OOP) to create an ATM simulation in Python
+
+#### The notebook also includes a complete implementation of an ATM simulation in Python. The simulation includes the following features:
+
+- Account creation: Customers can create new accounts and deposit money into them.
+- Withdrawals: Customers can withdraw money from their accounts.
+- Transfers: Customers can transfer money between their accounts.
+- Balance inquiries: Customers can check the balance of their accounts.
   
