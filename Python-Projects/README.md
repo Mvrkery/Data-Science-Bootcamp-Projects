@@ -18,7 +18,7 @@
 
  - This Jupyter notebook demonstrates how to use object-oriented programming (OOP) to create an ATM simulation in Python. OOP is a programming paradigm that allows you to create reusable code and model real-world objects.
 
-- The ATM simulation in this notebook includes the following features:
+#### The ATM simulation in this notebook includes the following features:
 
 - Account creation: Users can create new accounts and deposit money into them.
 - Withdrawals: Users can withdraw money from their accounts.
