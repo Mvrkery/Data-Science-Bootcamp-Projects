@@ -1,6 +1,5 @@
 # Data-Science-Bootcamp-Projects
 
-https://api.badgr.io/public/assertions/GTM7DsBFQOuhEDLegTDaEA
 ![image](https://github.com/Mvrkery/Data-Science-Bootcamp-Projects/assets/138161362/58394eeb-d650-4cd1-94be-7f65f27dfda5)
 
 
