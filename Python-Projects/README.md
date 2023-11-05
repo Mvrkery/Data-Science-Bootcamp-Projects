@@ -22,9 +22,9 @@
 - Data Cleaning: In this part of the project, you will use Pandas to clean the sample dataset. You will learn how to identify and remove errors from the dataset, how to fill in missing values, and how to convert data types.
 - Data Analysis: In this part of the project, you will use Pandas to perform data analysis on the sample dataset. You will learn how to create groups of data, how to calculate aggregations over groups of data, and how to visualize data using Pandas' built-in plotting tools.
 
-## Object Oriented Programming ATM
+## Object Oriented Programming ATM Projrct
 
- The Object Oriented Programming ATM is a Project that demonstrates how to use object-oriented programming (OOP) to create an ATM simulation in Python
+ The Object Oriented Programming ATM is a Project that demonstrates how to use object-oriented programming (OOP) to create an ATM simulation in Python.
 
 #### The notebook also includes a complete implementation of an ATM simulation in Python. The simulation includes the following features:
 
@@ -32,4 +32,15 @@
 - Withdrawals: Customers can withdraw money from their accounts.
 - Transfers: Customers can transfer money between their accounts.
 - Balance inquiries: Customers can check the balance of their accounts.
-  
+
+## Rock-Scissor-Paper-Game Project
+ The notebook also includes a complete implementation of a rock-scissor-paper game in Python. The game is simple to play: the user chooses rock, scissor, or paper, and the computer also chooses one of these three options. The winner is determined by the following rules:
+
+- Rock beats scissors
+- Scissors beats paper
+- Paper beats rock
+If both players choose the same option, then the game is a tie
+
+The game also includes a scoring system: the player who wins a round gets 1 point. The first player to reach 3 points wins the game.
+
+The notebook also includes a number of exercises that you can complete to practice your Python skills.
